@@ -1,10 +1,9 @@
-
 # Oi, sou o Samuel Hironimus
 
 Estou cursando ADS na Germinare Tech e gostando cada vez mais do mundo da programação. Gosto do Fron-end, mas curto mais o Back-end. Tentando sempre aprender algo novo para evoluir, mas atualmente programo mais em Java.
 
 🎯 **Foco:** Lógica, automação, dados, UX.  
-🎓 **Interesses acadêmicos e profissionais:** Interdisciplinaridade entre programação, análise de dados, transporte rodoviário e eficiência operacional.
+🎓 **Interesses acadêmicos:** Evoluir nas linguagens que domino melhor e continuar trabalhando no projeto Ei Truck.
 
 ---
 
