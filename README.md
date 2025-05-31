@@ -32,3 +32,5 @@ Estou cursando ADS na Germinare Tech e gostando cada vez mais do mundo da progra
 - ✉️ [Outlook](samuel.hironimus@germinare.org.br)
 
 ---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelpimentah&layout=compact)
